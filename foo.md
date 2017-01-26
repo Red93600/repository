@@ -1,4 +1,4 @@
-Hello the world !
+Okay ...
 We're trying git at school !
 With the fabulous @Nek- <3.
 
